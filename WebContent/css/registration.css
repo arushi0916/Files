@@ -1,0 +1,70 @@
+
+.registration-form{
+       background:#0e192b;
+       width:25%;
+	   height:50%;
+	   border-radius:10px;
+	   opacity:0.8;
+	   margin-left:35%;
+	   margin-top:5%;
+	   position:absolute;
+	   box-shadow: 5px 10px;
+	   z-index:10000;
+	   display:none;
+
+}
+
+
+.table-edit{
+  margin-left:30%;
+  margin-right:32%;
+  width:40%;
+
+}
+
+.caption-edit{
+   font-size:250%;
+   color:white;
+   margin-left:-10%;
+   margin-bottom:20%;
+   margin-top:15%;
+   
+}
+
+.input-edit{
+    width:100%;
+	height:35px;
+	border-radius:10px;
+}
+.radio-button1{
+   color:white;
+   width:500%;
+}
+
+.button-edit{ 
+   height:40px;
+   border-radius:10px;
+   margin-top:10%;
+   background:#085459;
+   color:white;
+   width:100%;
+   margin-left:0%;
+   box-shadow:3px 3px #ff0000;
+}
+
+.radio1{
+color:white;
+font-size:110%;
+}
+
+.company-name{
+  color:#172740;
+  font-size:600%;
+  text-align:center;
+  margin-top:5%;
+  font-family: "Times New Roman";
+  font-weight:bolder;
+  text-shadow: 4px 4px #ff0000;
+  position:absolute;
+  margin-left:5%;
+}
